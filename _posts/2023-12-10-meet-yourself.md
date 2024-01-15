@@ -14,9 +14,9 @@ excerpt: |
 
 _Meet Yourself_ is a drama all about healing and a slow lifestyle. It follows a woman named Xu Hongdou who works as a lobby manager in a luxury 5-star hotel in Beijing. Her work in this hotel dominates most of her time and her adult life, and she is constantly stressed and busy because of it. However, this all changes when her best friend suddenly dies. Realizing that she needed a break from everything, Xu Hongdou decides to book a 3-month rest in a homestay in a village in Yunnan. Here, life is much slower than in the cities; people ride horses around, everyone knows each other, and the buildings and technology are visibly less developed. It is here that she meets Xie Zhiyao, an investor turned entrepreneur who quit his high-paying job in Beijing and came back to the village he grew up in to try and kickstart the tourism industry. The drama then revolves around Xu Hongdou, Xie Zhiyao, the other tenants in the homestay, and everyone else in Yun Miao village as they all journey through their own lives.
 
-{% include figure.html image="https://brianfu.net/assets/img/meet_yourself/xuhongdou.jpg" caption="Xu Hongdou" position="left" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/meet_yourself/xuhongdou.jpg" caption="Liu Yi Fei as Xu Hongdou" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/meet_yourself/xiezhiyao.jpg" caption="Xie Zhiyao" position="right" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/meet_yourself/xiezhiyao.jpg" caption="Li Xian as Xie Zhiyao" position="right" width="300" height="800" %}
 
 <div style="clear: both;"></div>
 
