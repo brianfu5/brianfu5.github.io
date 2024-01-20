@@ -12,6 +12,6 @@ Hi There!
 
 My name is Brian Fu. I am currently a junior at the University of California, Berkeley studying EECS.
 
-Feel free to check out my blogs and let's keep in touch!
+Feel free to check out my blogs and let's keep in touch! 
 
 {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/brianfu5"%} {% include button.html text="Github" icon="github" link="https://github.com/brianfu5"%} {% include button.html text="Email" icon="email" link="mailto:brianfu53@gmail.com"%} 
