@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "The homepage of my website"
 ---
 
-<div style="text-align: left;"><img src="/assets/img/brian_fu_homepage.jpg" width="307" height="410" alt="" onmouseover="this.src='/assets/img/brian_fu_homepage_alt.jpg'" onmouseout="this.src='/assets/img/brian_fu_homepage.jpg'" ontouchstart="this.src='/assets/img/brian_fu_homepage_alt.jpg'" ontouchend="this.src='/assets/img/brian_fu_homepage.jpg'"></div>
+<div style="text-align: left;"><img src="/assets/img/brian_fu_homepage.jpg" width="307" height="410" alt="" ></div>
 
 Hi There!
 
