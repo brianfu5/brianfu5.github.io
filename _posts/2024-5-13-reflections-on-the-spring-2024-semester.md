@@ -28,4 +28,4 @@ One thing that got confirmed this March was that I am going to study abroad in S
 
 Thanks for reading until now. I promise I will write more frequently, especially when I go to Korea. I already have many ideas on what my next few blogs are going to be this summer, for example, blogs about skincare, dramas, my internship, or anything fun I do. Anyways, that’s it. Have a picture of me getting a perm at the start of the semester. 
 
-{% include figure.html image="https://brianfu.net/assets/img/me/brian_getting_perm.jpg" caption="Me getting a perm" position="left" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/me/brian_getting_perm.jpg" position="left" width="300" height="800" %}
