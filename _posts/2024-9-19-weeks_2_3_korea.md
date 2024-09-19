@@ -17,13 +17,13 @@ Some other random updates. I signed up for a Brazilian jiu-jitsu gym, and now I 
 
 Here are some things that I did and saw during these two weeks.
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/hyundai_rooftop.jpg" caption="Nice Rooftop Area of Department Store" width="800" height="300" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/hyundai_rooftop.jpg" caption="Nice Rooftop Area of Department Store" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/ikea_popup.jpg" caption="Ikea Popup Store" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/hyundai_bookstore.jpg" caption="Cute Bookstore I Found" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/seoul_botanic_park.jpg" caption="Seoul Botanic Park" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/seoul_botanic_park.jpg" caption="Seoul Botanic Park" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/war_memorial_1.jpg" caption="War Memorial of Korea" position="left" width="300" height="800" %}
 
