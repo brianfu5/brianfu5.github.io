@@ -19,7 +19,7 @@ Here are some things that I did and saw during these two weeks.
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/hyundai_rooftop.jpg" caption="Nice Rooftop Area of Department Store" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/ikea_pop_up.jpg" caption="Ikea Popup Store" position="left" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/ikea_popup.jpg" caption="Ikea Popup Store" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/hyundai_bookstore.jpg" caption="Cute Bookstore I Found" position="right" width="300" height="800" %}
 
@@ -27,7 +27,7 @@ Here are some things that I did and saw during these two weeks.
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/war_memorial_1.jpg" caption="War Memorial of Korea" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/war_memorial_2.jpg" caption="" position="right" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/war_memorial_2.jpg" caption="Cool Cannons" position="right" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/coex_library.jpg" caption="Starfield Library" position="left" width="300" height="800" %}
 
@@ -37,6 +37,6 @@ Here are some things that I did and saw during these two weeks.
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/korean_cooking_class_1.jpg" caption="Korean Cooking Class" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/korean_coooking_class_2.jpg" caption="We made Japchae!" position="right" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/korean_cooking_class_2.jpg" caption="We made Japchae!" position="right" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/han_river_picnic.jpg" caption="Han River Picnic With Friends" width="300" height="800" %}
