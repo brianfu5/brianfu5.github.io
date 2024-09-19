@@ -17,7 +17,7 @@ Some other random updates. I signed up for a Brazilian jiu-jitsu gym, and now I 
 
 Here are some things that I did and saw during these two weeks.
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/hyundai_rooftop.jpg" caption="Nice Rooftop Area of Department Store" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/hyundai_rooftop.jpg" caption="Nice Rooftop Area of Department Store" width="600" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_2_3/ikea_popup.jpg" caption="Ikea Popup Store" position="left" width="300" height="800" %}
 
