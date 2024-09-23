@@ -20,7 +20,7 @@ Here are some pictures:
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/deoksugung_1.jpg" caption="Me At Deoksugung" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/deoksukung_2.jpg" caption="King's Throne" position="right" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/deoksugung_2.jpg" caption="King's Throne" position="right" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/hanok_village_1.jpg" caption="Pavilian at Namsangol Hanok Village" position="left" width="300" height="800" %}
 
@@ -30,11 +30,11 @@ Here are some pictures:
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/namsan_tower_3.jpg" caption="View at Night" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/namsam_tower_5.jpg" caption="Facing SF!" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/namsan_tower_5.jpg" caption="Facing SF!" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/namsan_tower_2.jpg" caption="Pretty Sunset" width="600" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/cheering_1.mp4" caption="Cheering Event -- So Much Rain" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/cheering_3.jpg" caption="Me" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/cheering_2.jpg" caption="Me" width="300" height="800" %}
 
