@@ -34,7 +34,7 @@ Here are some pictures:
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/namsan_tower_2.jpg" caption="Pretty Sunset" width="600" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/cheering_1.mp4" caption="Cheering Event -- So Much Rain" width="300" height="800" %}
+<video width="307" height="410" controls="controls"> <source src= "https://brianfu.net/assets/img/south_korea/week_4/cheering_1.mp4" type="video/mp4" />
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_4/cheering_2.jpg" caption="Me" width="300" height="800" %}
 
