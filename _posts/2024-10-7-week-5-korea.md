@@ -16,9 +16,9 @@ Now, moving on, like I said before, Tuesdays and Thursdays are my free days, so 
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/insadong_2.jpg" caption="Ssamziegil" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/insadong_3.jpg" caption="Insadong Traditional Teahouse" width="600" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/insadong_3.jpg" caption="Insadong Traditional Teahouse" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/changdeokgung.jpg" caption="Changdeokgung Palace" width="600" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/changdeokgung.jpg" caption="Changdeokgung Palace" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/yonko_eve_festival.jpg" caption="YonKo Games Eve Festival" width="600" height="800" %}
 
@@ -30,15 +30,15 @@ On Thursday, I went to Tongin Market, which is a small market near Gyeongbokgung
 
 Afterwards, me and my roommate decided to go to some museum, but we wanted to walk there. And while walking, we decided to take a smaller road instead of a main road. And one decision led to another, and instead of walking to a museum, we found ourselves walking up a mountain for a hike. Along the way, we stopped by an archery museum that was there. Then, we spent the next 5-6 hours hiking around, first going to Suseongdong Valley, then hiking to the top of Inwangsan, coming down the mountain to rest at Cheongun Literature Library, a really cute library with a waterfall and pagodas, and then finally hiking up Bugaksan. My phone ran out of battery while hiking up Bugaksan, but my health app showed 30,000 steps for that day. I really love spontaneous trips like this, where there is no set plan and just walk somewhere and have a good time. In this case, because I do enjoy hiking and being in nature, I think hiking ended up being a much better decision than going to a museum. 
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/archery_museum.jpg" caption="Traditional Archery Museum" width="600" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/archery_museum.jpg" caption="Traditional Archery Museum" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/inwangsan.jpg" caption="Inwang Mountain" width="600" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/inwangsan.jpg" caption="Inwang Mountain" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/cheongun_library.jpg" caption="Cheongun Literature Library" width="600" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/cheongun_library.jpg" caption="Cheongun Literature Library" width="300" height="800" %}
 
 On Friday, I skipped class once again to attend the YonKo Games baseball game. The YonKo Games is a yearly rivalry between Yonsei University and Korea University, two of the top three schools in Korea. Each year, they compete in baseball, ice hockey, basketball, soccer, and rugby. As an exchange student, I am only able to watch the baseball and soccer games (I think rugby too but it was canceled this year). It has been a year since I have seen a baseball game in person, so I was really excited to attend another one. I was waiting to see a good game, but it ended up being a sweep (we lost). Just to cut it short, our baseball team got embarrassed. In 9 innings, we made it to first base I think four times. We didn’t even touch second base once. Regardless of the loss, the cheering was really enjoyable, and it was still the most fun I had in a baseball game. 
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/yonko_baseball.jpg" caption="YonKo Games Baseball" width="600" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/yonko_baseball.jpg" caption="YonKo Games Baseball" width="300" height="800" %}
 
 After the game, I headed to Lotte World Tower with some friends, where we did some shopping, went to see the Lotte World Aquarium, and went up the Lotte World Tower to the top. The view from the top was stunning, and I think that it is much better than the view from N Seoul Tower. 
 
@@ -56,8 +56,8 @@ Friday was also my birthday, so to celebrate, I went out with my roommate for di
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/birthday_cake.jpg" caption="Birthday Cake" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/duck_plush.jpg" caption="Quagmire" width="600" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/duck_plush.jpg" caption="Quagmire" width="300" height="800" %}
 
 On Saturday was the YonKo Games Soccer Games, which were also really exciting. To give a quick rundown, at this point in timeYonsei scored a goal in the first 10 minutes, then nothing happened until 90 minutes, so I thought we had the win for sure. So the whole time, I was happy cheering with the rest of the Yonsei. But then Korea scored an equalizer goal in 3 minutes of stoppage time, and you can just see everyone's mood dampening. I thought it was over at that time, but then, magically, we ended up scoring a world-class goal at 7 minutes into stoppage time, and everyone, including me, erupted into a huge celebration. We won the game after that, but I will never forget the vibe of the stadium after the final goal. I’ve never been more happy watching a sports game in the past three years (Bay Area teams gg). I can’t fully describe it in words, so I’ll just link a video of what happened [here](https://youtu.be/He3SoTLZgtI?t=252&feature=shared){:target="_blank"}. But this was definitely the most fun soccer game I’ve attended, and I hope to be back to another one someday! 
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/yonko_soccer.jpg" caption="YonKo Games Soccer" width="600" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/yonko_soccer.jpg" caption="YonKo Games Soccer" width="300" height="800" %}
