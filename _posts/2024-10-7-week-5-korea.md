@@ -28,6 +28,8 @@ On Thursday, I went to Tongin Market, which is a small market near Gyeongbokgung
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/tongin_market_2.jpg" caption="Street Food Haul" position="right" width="300" height="800" %}
 
+<div style="clear: both;"></div>
+
 Afterwards, me and my roommate decided to go to some museum, but we wanted to walk there. And while walking, we decided to take a smaller road instead of a main road. And one decision led to another, and instead of walking to a museum, we found ourselves walking up a mountain for a hike. Along the way, we stopped by an archery museum that was there. Then, we spent the next 5-6 hours hiking around, first going to Suseongdong Valley, then hiking to the top of Inwangsan, coming down the mountain to rest at Cheongun Literature Library, a really cute library with a waterfall and pagodas, and then finally hiking up Bugaksan. My phone ran out of battery while hiking up Bugaksan, but my health app showed 30,000 steps for that day. I really love spontaneous trips like this, where there is no set plan and just walk somewhere and have a good time. In this case, because I do enjoy hiking and being in nature, I think hiking ended up being a much better decision than going to a museum. 
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/archery_museum.jpg" caption="Traditional Archery Museum" width="300" height="800" %}
@@ -49,6 +51,8 @@ After the game, I headed to Lotte World Tower with some friends, where we did so
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/lotte_tower_1.jpg" caption="Me at the top!" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_5/lotte_tower_3.jpg" caption="View From Lotte Tower" position="right" width="300" height="800" %}
+
+<div style="clear: both;"></div>
 
 Friday was also my birthday, so to celebrate, I went out with my roommate for dinner. Of course, since I was turning 21, I had to celebrate the American way by eating steak and drinking beer. And since I am also Las Vegas legal now, after dinner, I practiced my gambling skills by heading to the claw machines, where I spent an amount of money I am unwilling to disclose. But I did win a really funny duck that I really like! I named him Quagmire. Finally, I had some cake, and that was my birthday :D 
 
