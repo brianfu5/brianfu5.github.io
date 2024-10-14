@@ -129,8 +129,6 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Subscribe
-  url: /subscribe
 - title: Contact
   url: /contact/
 
