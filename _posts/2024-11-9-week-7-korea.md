@@ -11,11 +11,11 @@ Bello! ~~1 2 3 4~~ 5 weeks late now :((! But this week was a fun one! I traveled
 ###### Day 1
 This was the day I arrived in Busan. Since I didn’t know anything about Busan yet, I opted to go on an organized tour for this day. So after landing in the airport and dropping off our bags at the hotel, we went to get picked up for the tour. The first stop was the Haeundae Blueline Park Sky Capsule, where you ride on some sort of elevated cable rail car all across the coastline. 
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/sky_capsule_1.jpg" caption="Haeundae Blueline Park Sky Capsule" position="left" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/sky_capsule_1.jpg"  position="left" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/sky_capsule_3.jpg" caption="" position="right" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/sky_capsule_3.jpg" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/sky_capsule_picture.jpg" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/sky_capsule_picture.jpg" caption="Haeundae Blueline Park Sky Capsule" width="300" height="800" %}
 
 <div style="clear: both;"></div>
 
@@ -23,7 +23,7 @@ We were able to see beautiful views of the ocean and shoreline during this, so I
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/cheongsapo.jpg" caption="Cheongsapo Daritdol Observatory" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/sky_capsue_lunch.jpg" caption="Seafood Lunch" position="right" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/sky_capsule_lunch.jpg" caption="Seafood Lunch" position="right" width="300" height="800" %}
 
 <div style="clear: both;"></div>
 
@@ -31,9 +31,9 @@ Then, our bus took us to Oryukdo Island, where we walked the Oryukdo Skywalk and
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/oryukdo_1.jpg" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/oryukdo_2.jpg" position="right" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/oryukdo_3.jpg" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/oryukdo_3.jpg" caption="Ourukdo Island and Quay" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/oryukdo_2.jpg" caption="Ourukdo Island and Quay" width="300" height="800" %}
 
 <div style="clear: both;"></div>
 
@@ -112,23 +112,23 @@ For our final day in Busan, we first went to the Songdo Cloud Trails to walk aro
 
 The day we the ocean was so beautiful; I’m not exactly sure if there is a one-to-one translation to English, but in Chinese we call it 果冻海, literally jelly sea. The ocean was so turquoise and mellow that it looked like a sea of cut up jelly pieces. After observing the sea for a bit, we turned back and took the Songdo Cable Car over the ocean. The cable car has a transparent glass floor, so I just stared at the sea that was passing by underneath us. 
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_ocean_1.jpg" caption="Pretty Ocean" position="left" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_ocean_1.jpg" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_ocean_2.jpg" caption="" position="right" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_ocean_2.jpg" position="right" width="300" height="800" %}
 
 <div style="clear: both;"></div>
 
 Once we reached our destination, we went to the Songdo Yonggung Suspension Bridge to view the ocean from a different viewpoint briefly before walking again to a nearby oceanside cafe to relax and, you guessed it, stare more at the ocean. 
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_cafe.jpg" caption="Another Cute Cafe" position="left" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_cafe.jpg"  position="left" width="300" height="800" %}
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_ocean_3.jpg" caption="" position="right" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_ocean_3.jpg" position="right" width="300" height="800" %}
 
 <div style="clear: both;"></div>
 
 I’m not exactly sure why I love doing nothing and just love to listen to the sound of the ocean and stare at the waves and the horizon – my guess is it has something to do with the fact that I can briefly forget about the stress and troubles of life and just enjoy myself and nature. Another reason may be because it causes a temporary illusion that seems to really slow down time and create an environment that mimics a peaceful, slow-paced life, which I like, but regardless, the fact that I was able to do this a lot during this trip to Busan was very soul refreshing. 
 
-{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_1.jpg" caption="Picture with Little Prince" position="left" width="300" height="800" %}
+{% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_1.jpg" caption="" position="left" width="300" height="800" %}
 
 {% include figure.html image="https://brianfu.net/assets/img/south_korea/week_7/songdo_2.jpg" caption="Random 灰太狼 Spotted" position="right" width="300" height="800" %}
 
