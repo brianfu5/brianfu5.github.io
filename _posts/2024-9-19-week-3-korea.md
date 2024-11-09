@@ -1,5 +1,5 @@
 ---
-title: Weeks 2 & 3 in Korea - Classes Start
+title: Week 3 in Korea - A Slower Week Getting Used to School Again
 categories:
 - South Korea
 excerpt: |
