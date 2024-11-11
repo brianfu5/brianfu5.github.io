@@ -1,8 +1,5 @@
 ---
 title: About Me
-feature_text: |
-  ## Brian Fu
-feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "The homepage of my website"
 ---
 
