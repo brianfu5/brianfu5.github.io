@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "The homepage of my website"
 ---
 
-<div style="text-align: left;"><img src="/assets/img/brian_fu_homepage.jpg" width="307" height="410" alt="" ></div>
+<div style="text-align: left;"><img src="/assets/img/brian_fu_homepage_2.jpg" width="307" height="410" alt="" ></div>
 
 Hi There!
 
