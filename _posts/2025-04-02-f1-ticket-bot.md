@@ -41,7 +41,7 @@ The majority of the logic is located in the `check_tickets()` function. To get s
 
 After looking through each one of the responses, I found one that contained data for when a session had an available ticket, meaning that if we can just query this API endpoint, we have our method to check for ticket data.
 
-{% include figure.html image="https://brianfu.net/assets/img/f1_bot/network_response.png" width="500" height="500" %}
+{% include figure.html image="https://brianfu.net/assets/img/f1_bot/network_response.png" width="400" height="400" %}
 
 So I did some research and found the requests library, which can send requests and get responses from different endpoints. Using the requests library, I wrote code to send about 20 requests per second to the specified endpoint. To avoid setting off any simple bot detection algorithms, I swapped between a pool of 3 user agents in my requests, and all requests were sent uniformly randomly between a time of 0 and 0.1 seconds. This would work well, but there would be times where the request would have connection issues or be stuck on a read, so I also added a retry mechanism that allows up to 3 tries (if it fails 3 times in a row, they probably figured out I’m a bot, and we can just exit the program). 
 
