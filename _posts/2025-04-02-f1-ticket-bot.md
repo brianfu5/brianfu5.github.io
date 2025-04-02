@@ -27,9 +27,9 @@ With this process, if someone decides to refund their ticket, it would automatic
 ### How It Works
 
 Here is a brief summary of the tools and libraries I used:
-&nbsp;&nbsp;- Programming Language: Python
-&nbsp;&nbsp;- Libraries: Selenium, BeautifulSoup, Requests, Playsound
-&nbsp;&nbsp;- Dependencies: ChromeDriver (for Selenium)
+ - Programming Language: Python
+ - Libraries: Selenium, BeautifulSoup, Requests, Playsound
+ - Dependencies: ChromeDriver (for Selenium)
 
 Writing the code for the bot happened in two distinct phases. The first was writing the script to constantly check for ticket availability, and the second was to have it automatically open up the ticketing page and navigate to the seating selection page and payment. 
 
