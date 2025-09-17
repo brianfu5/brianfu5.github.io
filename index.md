@@ -7,7 +7,7 @@ excerpt: "The homepage of my website"
 
 Hi There!
 
-My name is Brian Fu. I am a senior at the University of California, Berkeley studying EECS. Currently studying abroad at Yonsei University.
+My name is Brian Fu. I love traveling and I want to slowly travel the world! I love watching Chinese/Korean dramas, and I enjoy training in Brazilian Jiu-Jitsu.
 
 Feel free to check out my blogs and let's keep in touch! 
 
